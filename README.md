@@ -7,16 +7,16 @@ Cette application est un Model-View-Controller permettant d'afficher tous les To
 
 #### Les fonctionnalitées du projet ####
 
-> **Fonction Completed**
+1. **Fonction Completed**
 >> La tâche va donc apparaître avec le texte barré afin d'indiquer que la tâche a été réalisée 
 
 _inserer une image_
 
-> **Fonction Ajouter**
+2. **Fonction Ajouter**
 >> On peut ajouter un Todo à notre tableau, la mise à jour se fait aussi sur la base de données 
 ![Ajout](https://github.com/vappy2/Todo/blob/master/Image/add%20todo.PNG)
 
-> **Fonction Supprimer**
+3. **Fonction Supprimer**
 >> On peut donc supprimer un Todo à notre tableau et la mise à jour se fera sur la base de données.
 ![Delete](https://github.com/vappy2/Todo/blob/master/Image/edit%20todo.PNG)
 
@@ -26,5 +26,5 @@ _inserer une image_
 
 #### Langage et Outils utilisé ####
 
-> PHP (Framework : Code igniter) : NetBeans, Wamp server
-> Bootstrap
+1. PHP (Framework : Code igniter) : NetBeans, Wamp server
+2. Bootstrap
