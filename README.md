@@ -25,8 +25,8 @@ _inserer une image_
 >> On peut donc supprimer un Todo à notre tableau et la mise à jour se fera sur la base de données.
 
 4. **Fonction Edit**
->> On peut éditer une tâches si l'on souhaite changé son ordre, elle se rangera automatique des l'ordre. La modification est aussi
-apporté à la base de données
+>> On peut éditer une tâche si l'on souhaite changer son ordre, elle se rangera automatique dans l'ordre. La modification est aussi
+apportée à la base de données
 ![Delete](https://github.com/vappy2/Todo/blob/master/Image/edit%20todo.PNG)
 
 
