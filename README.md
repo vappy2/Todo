@@ -15,7 +15,6 @@ Cette application est un Model-View-Controller permettant d'afficher tous les To
 1. **Fonction Complete**
 >> La tâche va donc apparaître avec le texte barré afin d'indiquer que la tâche a été réalisée 
 
-_inserer une image_
 
 2. **Fonction Add**
 >> On peut ajouter un Todo à notre tableau, la mise à jour se fait aussi sur la base de données 
